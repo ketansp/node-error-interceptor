@@ -1,0 +1,29 @@
+{
+  "name": "node-error-interceptor",
+  "version": "0.0.1",
+  "description": "a library to intercept all error events in node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketansp/node-error-interceptor.git"
+  },
+  "keywords": [
+    "error",
+    "errors",
+    "intercept",
+    "events",
+    "all",
+    "catch",
+    "try",
+    "warnings"
+  ],
+  "author": "Ketan Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ketansp/node-error-interceptor/issues"
+  },
+  "homepage": "https://github.com/ketansp/node-error-interceptor#readme"
+}
